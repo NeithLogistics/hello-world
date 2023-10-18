@@ -20,4 +20,4 @@ It does not use TypeScript and only includes the `vscode` devDependency needed f
 - Run `npm install` in terminal to install dependencies
 - Run the `Run Extension` target in the Debug View.
 
-*Note: Extension is hosted here - https://nl-extensions-admin.s3.ap-south-1.amazonaws.com/hello-world-1.0.0.vsix*
+*Note: Extension is hosted here - https://nl-extensions-user1.s3.amazonaws.com/hello-world-1.0.0.vsix*
